@@ -1,1 +1,1 @@
-# Criar uma aplicação utilizando Node.js e Express que permita realizar as operações CRUD em um bando de dados MySQL. Utilizar Controller e Views para as páginas HTML para interação do usuário do sistema. Faça uma aplicação para Cadastro de Clientes.
+# Desenvolver uma aplicação com Node.js e Express que possibilite realizar operações CRUD em um banco de dados MySQL. Utilize Controllers e Views para as páginas HTML e possibilitar a interação do usuário com o sistema. Crie uma aplicação para o Cadastro de Clientes.
